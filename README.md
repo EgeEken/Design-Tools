@@ -19,19 +19,19 @@ This project is a graphical drawing application built using **PyQt5**. It provid
 - **New File**: Clear the canvas and start a new drawing, also clears the log. Shortcut: `Ctrl + N`
 - **Save**: Save the current canvas as an image file, and the current log as a text file in the project directory, the current time will also be added to the file name to avoid overwriting or confusion. Shortcut: `Ctrl + S`
 
-  ![File Tools](file_tools.png)
+  ![File Tools](demos/file_tools.png)
 ---
 - **Pen Color Picker**: Choose the color for freehand drawing and shape borders.
 - **Fill Color Picker**: Choose the color to fill the shapes.
 
-  ![Color Tools](color_tools.png)
+  ![Color Tools](demos/color_tools.png)
 ---
 - **Shape Tools**: Draw with predefined shapes like rectangles and ellipses. Can customize the fill and border colors.
 - **Freehand Drawing**: Create freeform lines with customizable pen colors and brush sizes which can be adjusted using the color picker and the slider in the toolbar.
 - **Eraser**: Erase the drawn objects, size can also be adjusted using the slider.
 - **Size Adjustment Slider**: Adjust the pen/eraser size using a slider in the toolbar.
 
-  ![Shape Tools](shape_tools.png)
+  ![Shape Tools](demos/shape_tools.png)
 ---
 - **Move**: Move selected objects, or deselect objects by clicking on an empty part of the canvas and move the entire canvas, to open more space on the current screen without having to delete existing objects.
 - **Draw**: Draw freehand lines, rectangles, ellipses, or erase objects.
@@ -67,7 +67,6 @@ This project is a graphical drawing application built using **PyQt5**. It provid
 - `demos/`: Directory containing demonstration images. Including the ones used above and below.
 - `demos/demo.mp4`: A video demonstration of the application in action.
 <video src="demos/demo.mp4" width="320" height="240" controls></video>
-
 
   (Markdown does not support audio, so to hear my commentary, please download the video and watch it on a normal video player)
 
