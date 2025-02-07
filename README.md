@@ -11,7 +11,7 @@
 
 This project is a graphical drawing application built using **PyQt5**. It provides tools for freehand drawing, shape creation, and object selection/manipulation.
 
-(To view this markdown file with images, please open it in a markdown viewer that supports images, or view it on GitHub)
+(To view this markdown file with images, please open it in a markdown viewer that supports images, or [click here to view it on GitHub](https://github.com/EgeEken/Design-Tools))
 
 ## Tools and Features
 ---
